@@ -82,7 +82,6 @@ Summarizes the complete analysis through key business risks, growth opportunitie
 # Tech Stack
 
 * Microsoft Power BI Desktop
-* SQL
 * DAX
 * Power Query
 * Microsoft Excel
